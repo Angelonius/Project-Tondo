@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Maharlika",
+		"unitType": "Melee",
+		"replaces": "Swordsman",
+		"uniqueTo": "Tondo",
+		"movement": 2,
+		"strength": 22,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]", "Amphibious"],
+		"promotions": ["Woodsman","Charge","Siege"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Lantaka",
+		"unitType": "Siege",
+		"replaces": "Trebuchet",
+		"uniqueTo": "Tondo",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 21,
+		"cost": 185,
+		"requiredTech": "Physics",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
+		"promotions": ["Volley","Extended Range","Indirect Fire"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	}
+]
