@@ -1,0 +1,4 @@
+Here are all the sources for the various image files used in this mod along with the.atlas file:
+
+1. Lantaka: https://thenounproject.com/term/cannon/1064617/ by Nico Ilk, CH 
+2. Nirekin's mod: https://github.com/Nirekin-sys/Unciv-Tondo
