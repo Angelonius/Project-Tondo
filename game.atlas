@@ -1,0 +1,27 @@
+
+game.png
+size: 512,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Tondo
+  rotate: false
+  xy: 306, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lantaka
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Maharlika
+  rotate: false
+  xy: 204, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
