@@ -11,7 +11,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]", "Amphibious"],
-		"promotions": ["Woodsman","Charge","Siege"],
+		"promotions": ["Woodsman","Charge"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	},
