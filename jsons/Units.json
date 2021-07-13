@@ -18,7 +18,7 @@
 	{
 		"name": "Lantaka",
 		"unitType": "Siege",
-		"replaces": "Trebuchet",
+		"replaces": "Trebuchet","Cannon",
 		"uniqueTo": "Tondo",
 		"movement": 2,
 		"strength": 15,
