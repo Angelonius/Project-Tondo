@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]", "Amphibious"],
+		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]", "Amphibious","Besiege"],
 		"promotions": ["Woodsman","Charge"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
