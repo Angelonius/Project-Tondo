@@ -6,4 +6,4 @@ CHANGELOG:
 
 v.1.1: Changed the introduction text to reflect the historical reality of Tondo and removed the Siege promotion from the Maharlika.
 
-v.1.2: Added in Besiege and Amphibious to the Maharlika, made the Maharlika obsolete upon researching Rifling.
+v.1.2: Added in Besiege and Amphibious to the Maharlika, made the Maharlika obsolete upon researching Rifling, changed the attacksounds for the Maharlika and Lantaka.
