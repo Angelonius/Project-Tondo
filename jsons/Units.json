@@ -18,7 +18,7 @@
 	{
 		"name": "Lantaka",
 		"unitType": "Siege",
-		"replaces": "Trebuchet","Cannon",
+		"replaces": "Trebuchet",
 		"uniqueTo": "Tondo",
 		"movement": 2,
 		"strength": 15,
@@ -30,6 +30,6 @@
 		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
 		"promotions": ["Volley","Extended Range","Indirect Fire"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit"
+		"attackSound": "cannon"
 	}
 ]
