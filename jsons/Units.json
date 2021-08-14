@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Maharlika",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"replaces": "Swordsman",
 		"uniqueTo": "Tondo",
 		"movement": 2,
