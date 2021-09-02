@@ -21,7 +21,7 @@
 				
 		"outerColor": [142,21,21],
 		"innerColor": [255,255,255],
-		"unique": "Maharlika Dominance",
+		"uniqueName": "Maharlika Dominance",
 		"uniques": ["+1 Movement for all embarked units", "Units pay only 1 movement point to embark and disembark","-[25]% [Land] unit maintenance costs","-[50]% [Water] unit maintenance costs"],
 		"cities": ["Tondo","Bakolod","Bago-Bago","Nagali","Bais","Balanga","Batangas","Naga","Baybayin","Bizlin",
 			"Tanawan","Samboanggan","Tayabas","Tobog","Silayan","Samal","Rawi","Padigusan","Binan","Cabuyao",
