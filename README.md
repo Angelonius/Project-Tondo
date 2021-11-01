@@ -13,3 +13,5 @@ v.1.3: Updated the Maharlika in accord to the current updates to the base game.
 v.1.4: Added and updated the Wet Farm.
 
 v.1.5: Added in the "Favored Religion" mechanic in line with the latest update to the base game.
+
+v.1.6: Updated the Land and Water Unit maintenance values to make it work with the base game.
