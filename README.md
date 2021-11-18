@@ -18,4 +18,4 @@ v.1.6: Updated the Land and Water Unit maintenance values to make it work with t
 
 v.1.7: Removed the Lantaka and placed it in Project Lantaka.
 
-v.1.8: Removed the Wet Farm and transferred it to Project Paddy Field, added in the Dye Market.
+v.1.8: Removed the Wet Farm and transferred it to Project Paddy Field, added in the Dye Market, updated the Maharlika.
