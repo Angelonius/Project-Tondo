@@ -3,7 +3,7 @@
 		"name": "Dye Market",
 		"uniqueTo": "Tondo",
 		"gold": 3,
-    "requiredNearbyImprovedResources": ["Dye"],
+                "requiredNearbyImprovedResources": ["Dye"],
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
