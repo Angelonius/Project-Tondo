@@ -23,7 +23,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Maharlika Dominance",
-		"uniques": ["[+1] Movement <for [Embarked] units>", "Units pay only 1 movement point to embark and disembark","-[25]% maintenance costs for [Land] units","-[50]% maintenance costs for [Water] units"],
+		"uniques": ["[+1] Movement <for [Embarked] units>", "Units pay only 1 movement point to embark and disembark","[-25]% maintenance costs <for [Land] units>","[-50]% maintenance costs <for [Water] units>"],
 		"cities": ["Tondo","Bakolod","Bago-Bago","Nagali","Bais","Balanga","Batangas","Naga","Baybayin","Bizlin",
 			"Tanawan","Samboanggan","Tayabas","Tobog","Silayan","Samal","Rawi","Padigusan","Binan","Cabuyao",
 			"Bokood","Espiritu","Indan","Namacpacan","Tivi","Pakil","Lapog","Ibungan","Carig","Atok",
