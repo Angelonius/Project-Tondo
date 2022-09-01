@@ -4,3 +4,4 @@ Here are all the sources for the various image files used in this mod along with
 2. Nirekin's mod: https://github.com/Nirekin-sys/Unciv-Tondo
 3. Dye Market: https://thenounproject.com/search/?q=market&i=3013422 By LAFS, RU 
 3.1. The idea for the Dye Market came from Shann: https://github.com/shannaurelle
+4. The help for v.1.10: https://github.com/not-navyblue
