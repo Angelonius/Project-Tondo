@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Tondo",
-		"leaderName": "Prince Lakandula",
+		"leaderName": "Bunao Lakandula",
 		"adjective": ["Tagalog"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "May the blessings of Maycapal be upon you, O great Lakandula! , The realm of Tondo is along the Pasig River alongside the Kingdom of Maynila. Trade along the Pasig River and with other nations was Tondo's lifeblood. The principality existed until it was vassalized by Spain in 1565.",
-		"startIntroPart2": "Tondo lives and is ready to take it's place among the great powers of the region. Your people look to you to bring the principality to life. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		"startIntroPart1": "May the blessings of Maycapal be upon you, O great Lakandula! , The realm of Tondo is along the Pasig River alongside the Kingdom of Maynila. Trade along the Pasig River and with other nations was Tondo's lifeblood. The kingdom existed until it was subjugated to Spain in 1589.",
+		"startIntroPart2": "Tondo lives and is ready to take it's place among the great powers of the region. Your people look to you to bring the kingdom to life. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your people have agitated the spirits for too long!",
 		"attacked": "With the power of Maycapal, I will smite you!",
