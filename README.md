@@ -21,3 +21,5 @@ v.1.7: Removed the Lantaka and placed it in Project Lantaka.
 v.1.8: Removed the Wet Farm and transferred it to Project Paddy Field, added in the Dye Market, updated the Maharlika.
 
 v.1.9: Updated the Nations.json.
+
+v.1.10: Updated Tondo's unique with the help of not-navyblue: https://github.com/not-navyblue
