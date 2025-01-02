@@ -23,3 +23,5 @@ v.1.8: Removed the Wet Farm and transferred it to Project Paddy Field, added in 
 v.1.9: Updated the Nations.json.
 
 v.1.10: Updated Tondo's unique with the help of not-navyblue: https://github.com/not-navyblue. updated the intro texts of Tondo.
+
+v.1.11: Updated the Units.json.
