@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Woodsman", "Amphibious", "Besiege"],
+		"uniques": ["Amphibious", "Besiege"],
 		"promotions": ["[Maharlika] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
