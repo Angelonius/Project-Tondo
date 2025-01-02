@@ -10,8 +10,8 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]"],
-		"promotions": ["Woodsman","Amphibious","Besiege"],
+		"uniques": ["[+33]% combat bonus in [Forest]", "[+33]% combat bonus in [Jungle]"],
+		"promotions": ["Woodsman", "Amphibious", "Besiege"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
